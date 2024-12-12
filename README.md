@@ -6,7 +6,7 @@
 📚 Lifelong learner committed to continuous self-improvement.
 📫 Let's connect! I'm open to exciting opportunities and collaborations.
 
-📌 Pune | 📧 vishnubadhe97@gmail.com | 🔗 https://www.linkedin.com/in/vishnu-badhe-b51279228/
+📌 Pune | 📧 vishnubadhe97@gmail.com | 🔗 https://www.linkedin.com/in/vishnubadhe
 
 
 
