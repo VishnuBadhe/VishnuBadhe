@@ -3,6 +3,7 @@
 
 I am a data analytics professional with hands-on experience in **Power BI, SQL Server, Excel, and ETL using SSIS**.  
 My focus is on transforming raw business data into **clean data models, reliable pipelines, and insightful dashboards**.
+
 I focus on **structured learning, clean documentation, and reproducible analytics workflows**.
 
 I have built **end-to-end analytics projects** as part of structured hands-on learning.
