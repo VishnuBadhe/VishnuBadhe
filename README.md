@@ -65,6 +65,18 @@ I have built **end-to-end analytics projects** as part of structured hands-on le
 
 ---
 
+### 🗄️ SQL – Data Analysis & Query Development
+🔗 **Repository:** `sql-data-analysis-project`
+
+- Wrote **complex SQL queries** for business insights
+- Created **views, joins, aggregations, and subqueries**
+- Designed **dimensional tables (Fact & Dimensions)**
+- Validated data and ensured consistency across tables
+- Documented queries, table structures, and insights
+- Analyses include: total sales & profit by year, top products, monthly trends, sales by category, and customer contribution
+
+---
+
 ### 📈 Excel – Business Dashboards
 🔗 **Repository:** `excel-business-dashboard`
 
