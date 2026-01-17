@@ -1,14 +1,16 @@
 # Hi, I'm Vishnu Badhe 👋  
 **Data Analyst / BI Analyst (Fresher)**
 
-I am a data analytics professional with hands-on experience in **Power BI, SQL Server, Excel, and ETL using SSIS**.  
-My focus is on transforming raw business data into **clean data models, reliable pipelines, and insightful dashboards**.
+I am a data analytics professional with hands-on experience in **Power BI, ETL using SSIS, SQL Server, and Excel**.  
+My focus is on transforming raw business data into **clean data models, reliable data pipelines, and insightful dashboards**.
 
-I focus on **structured learning, clean documentation, and reproducible analytics workflows**.
+I follow a **structured learning approach with clear documentation and reproducible analytics workflows**.
 
-I have built **end-to-end analytics projects** as part of structured hands-on learning:
+I have built **end-to-end analytics projects** as part of hands-on learning that cover:
+
 - Data extraction & transformation  
 - Dimensional modeling  
+- ETL pipeline development  
 - BI reporting & dashboards  
 - Business insights documentation  
 
@@ -16,100 +18,96 @@ I have built **end-to-end analytics projects** as part of structured hands-on le
 
 ## 🔍 Core Skills
 
-- **Power BI**
-  - Data Modeling (Star Schema)
-  - DAX Measures
-  - Power Query (M)
-  - Interactive Dashboards
+### **Power BI**
+- Data Modeling (Star Schema)
+- DAX Measures
+- Power Query (M)
+- Interactive Dashboards
 
-- **SQL Server**
-  - Data analysis queries
-  - Joins and aggregations
-  - Fact & dimension table design
-  - Data validation queries
+### **ETL & Data Warehousing**
+- SSIS Package Development
+- Incremental Load Logic
+- Conditional Split Transformations
+- Staging → Data Warehouse Flow
 
-- **ETL & Data Warehousing**
-  - SSIS Packages
-  - Incremental load implementation
-  - Conditional Split logic
-  - Staging → Data Warehouse flow
+### **SQL Server**
+- Data Analysis Queries
+- Joins & Aggregations
+- Filtering & Grouping
+- Sales & Performance Analysis
 
-- **Excel**
-  - Pivot Tables & Charts
-  - Dashboard design
-  - Denormalized reporting tables
-  - Business insights documentation
+### **Excel**
+- Pivot Tables & Charts
+- Dashboard Design
+- Denormalized Reporting Tables
+- Business Insights Documentation
 
 ---
 
 ## 📂 Featured Projects
 
-### 📊 Power BI – Sales Analytics Dashboard  
-🔗 **Repository:** `powerbi-sales-analytics`
+### 📊 Power BI – Enterprise Sales Analytics
+🔗 **Repository:** `powerbi-enterprise-sales-analytics`
 
-- Built a complete Power BI reporting solution  
-- Designed **fact & dimension data model**  
-- Created DAX measures for KPIs  
-- Developed interactive dashboards with slicers  
-- Documented data model and business insights  
+- Built a complete Power BI reporting solution from raw data  
+- Designed **fact and dimension data model**  
+- Created DAX measures for KPIs and performance metrics  
+- Developed interactive dashboards using slicers and filters  
+- Documented data model, visuals, and insights clearly  
 
 ---
 
-### 🏗️ SQL + SSIS – Data Warehouse & ETL Project  
-🔗 **Repository:** `sql-ssis-datawarehouse-project`
+### 🏗️ SSIS – Data Warehouse & ETL Implementation
+🔗 **Repository:** `ssis-etl-data-warehouse`
 
-- Designed staging and warehouse tables  
-- Implemented **incremental load logic using SSIS**  
-- Used Conditional Split transformations  
-- Ensured structured data flow from source to warehouse  
-- Followed enterprise-style folder structure and documentation  
+- Designed staging and data warehouse architecture  
+- Implemented **incremental load logic using Conditional Split**  
+- Loaded dimension and fact tables using lookup transformations  
+- Ensured structured ETL flow from source → staging → warehouse  
+- Created detailed mapping and workflow documentation  
 
 ---
 
 ### 🗄️ SQL – Data Analysis & Query Development  
 🔗 **Repository:** `sql-data-analysis-project`
 
-- Wrote structured SQL queries for business analysis  
-- Used joins, filters, and aggregations  
-- Performed sales trend analysis and category-level analysis  
-- Analyzed customer and product performance  
-- Documented query logic and analytical insights  
-
-Analyses include:
-- Total sales by year and month  
-- Category-wise and product-wise performance  
-- Customer contribution analysis  
-- Sales trend analysis  
+- **Developed business-oriented SQL queries** to extract meaningful insights from relational databases  
+- Applied **JOINs, filtering, and aggregate functions** to analyze sales and profit metrics  
+- Performed year-wise and month-wise sales trend analysis  
+- Conducted category-level and product-level performance analysis  
+- Analyzed customer purchasing behavior and contribution  
+- Followed clean query structure and logical sequencing  
+- Documented query logic and analytical insights for clarity  
 
 ---
 
-### 📈 Excel – Business Dashboards  
+### 📈 Excel – Business Dashboard & Reporting
 🔗 **Repository:** `excel-business-dashboard`
 
-- Built **5 Excel dashboards** using Northwind-style data  
-- Created **denormalized reporting tables** for analysis  
-- Used Pivot Tables, Charts, and Slicers  
-- Added dashboard-level business insights  
+- Built **5 Excel dashboards** using Northwind-style business data  
+- Performed **denormalization for reporting-ready datasets**  
+- Used Pivot Tables, Charts, and Slicers for analysis  
+- Documented insights for each dashboard  
 - Structured repository for professional presentation  
 
 ---
 
-### 📁 Portfolio Structure & Documentation
+## 📁 Portfolio Highlights
 
-- Clear and consistent repository naming  
+- Clean and consistent repository naming  
 - Professional README documentation  
-- Organized folders (screenshots, excel files, documents)  
-- Recruiter-friendly navigation and layout  
+- Organized folder structures (screenshots, files, documents)  
+- Recruiter-friendly navigation  
 
 ---
 
 ## 🎯 Career Objective
 
-To start my career as a **Data Analyst / BI Analyst**, where I can:
+To begin my career as a **Data Analyst / BI Analyst**, where I can:
 
-- Work on real business datasets  
+- Work on real-world business datasets  
 - Build reliable reporting and analytics solutions  
-- Strengthen SQL, BI, and data warehousing skills  
+- Strengthen my BI and data engineering foundation  
 - Grow into advanced analytics and BI engineering roles  
 
 ---
@@ -121,4 +119,4 @@ To start my career as a **Data Analyst / BI Analyst**, where I can:
 
 ---
 
-⭐ *Each repository represents structured learning, practical implementation, and professional documentation aligned with real-world analytics practices.*
+⭐ *Each repository reflects structured learning, practical implementation, and real-world analytics thinking.*
