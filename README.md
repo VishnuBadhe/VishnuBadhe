@@ -7,10 +7,10 @@ My focus is on transforming raw business data into **clean data models, reliable
 I focus on **structured learning, clean documentation, and reproducible analytics workflows**.
 
 I have built **end-to-end analytics projects** as part of structured hands-on learning:
-- Data extraction & transformation
-- Dimensional modeling
-- BI reporting & dashboards
-- Business insights documentation
+- Data extraction & transformation  
+- Dimensional modeling  
+- BI reporting & dashboards  
+- Business insights documentation  
 
 ---
 
@@ -23,93 +23,102 @@ I have built **end-to-end analytics projects** as part of structured hands-on le
   - Interactive Dashboards
 
 - **SQL Server**
-  - Data Analysis Queries
-  - Dimensional Tables (Fact & Dimensions)
-  - Data Validation & Joins
+  - Data analysis queries
+  - Joins and aggregations
+  - Fact & dimension table design
+  - Data validation queries
 
 - **ETL & Data Warehousing**
   - SSIS Packages
-  - Incremental Loads
-  - Conditional Split Logic
-  - Staging → Data Warehouse Flow
+  - Incremental load implementation
+  - Conditional Split logic
+  - Staging → Data Warehouse flow
 
 - **Excel**
   - Pivot Tables & Charts
-  - Dashboard Design
-  - Denormalized Reporting Tables
-  - Business Insights
+  - Dashboard design
+  - Denormalized reporting tables
+  - Business insights documentation
 
 ---
 
 ## 📂 Featured Projects
 
-### 📊 Power BI – Sales Analytics Dashboard
+### 📊 Power BI – Sales Analytics Dashboard  
 🔗 **Repository:** `powerbi-sales-analytics`
 
-- Built a complete Power BI reporting solution
-- Designed **fact & dimension model**
-- Created DAX measures for KPIs
-- Developed interactive dashboards with slicers
-- Documented data flow, model, and insights
+- Built a complete Power BI reporting solution  
+- Designed **fact & dimension data model**  
+- Created DAX measures for KPIs  
+- Developed interactive dashboards with slicers  
+- Documented data model and business insights  
 
 ---
 
-### 🏗️ SQL + SSIS – Data Warehouse & ETL Project
+### 🏗️ SQL + SSIS – Data Warehouse & ETL Project  
 🔗 **Repository:** `sql-ssis-datawarehouse-project`
 
-- Designed staging & warehouse tables
-- Implemented **incremental load logic using SSIS**
-- Used Conditional Split transformations
-- Ensured clean data flow from source to warehouse
-- Followed enterprise-style folder structure & documentation
+- Designed staging and warehouse tables  
+- Implemented **incremental load logic using SSIS**  
+- Used Conditional Split transformations  
+- Ensured structured data flow from source to warehouse  
+- Followed enterprise-style folder structure and documentation  
 
 ---
 
-### 🗄️ SQL – Data Analysis & Query Development
+### 🗄️ SQL – Data Analysis & Query Development  
 🔗 **Repository:** `sql-data-analysis-project`
 
-- Wrote **complex SQL queries** for business insights
-- Created **views, joins, aggregations, and subqueries**
-- Designed **dimensional tables (Fact & Dimensions)**
-- Validated data and ensured consistency across tables
-- Documented queries, table structures, and insights
-- Analyses include: total sales & profit by year, top products, monthly trends, sales by category, and customer contribution
+- Wrote structured SQL queries for business analysis  
+- Used joins, filters, and aggregations  
+- Performed sales trend analysis and category-level analysis  
+- Analyzed customer and product performance  
+- Documented query logic and analytical insights  
+
+Analyses include:
+- Total sales by year and month  
+- Category-wise and product-wise performance  
+- Customer contribution analysis  
+- Sales trend analysis  
 
 ---
 
-### 📈 Excel – Business Dashboards
+### 📈 Excel – Business Dashboards  
 🔗 **Repository:** `excel-business-dashboard`
 
-- Built **5 Excel dashboards** using Northwind-style data
-- Performed **denormalization for reporting**
-- Used Pivot Tables, Charts, and Slicers
-- Created clean documentation and insights
-- Structured repository for professional presentation
+- Built **5 Excel dashboards** using Northwind-style data  
+- Created **denormalized reporting tables** for analysis  
+- Used Pivot Tables, Charts, and Slicers  
+- Added dashboard-level business insights  
+- Structured repository for professional presentation  
 
 ---
 
 ### 📁 Portfolio Structure & Documentation
-- Clear repository naming
-- Professional README files
-- Organized folders (screenshots, docs, files)
-- Recruiter-friendly navigation
+
+- Clear and consistent repository naming  
+- Professional README documentation  
+- Organized folders (screenshots, excel files, documents)  
+- Recruiter-friendly navigation and layout  
 
 ---
 
 ## 🎯 Career Objective
 
 To start my career as a **Data Analyst / BI Analyst**, where I can:
-- Work on real business data
-- Build reliable reporting solutions
-- Grow into advanced analytics & BI engineering roles
+
+- Work on real business datasets  
+- Build reliable reporting and analytics solutions  
+- Strengthen SQL, BI, and data warehousing skills  
+- Grow into advanced analytics and BI engineering roles  
 
 ---
 
 ## 🔗 Connect With Me
 
-- **LinkedIn:** https://linkedin.com/in/vishnubadhe
-- **GitHub:** https://github.com/VishnuBadhe
+- **LinkedIn:** https://linkedin.com/in/vishnubadhe  
+- **GitHub:** https://github.com/VishnuBadhe  
 
 ---
 
-⭐ *Each repository reflects practical learning, structured thinking, and real-world analytics practices.*
+⭐ *Each repository represents structured learning, practical implementation, and professional documentation aligned with real-world analytics practices.*
